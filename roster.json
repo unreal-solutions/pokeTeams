@@ -1,0 +1,87 @@
+{
+   "giratina_altered": {
+     "fast" : "1",
+     "chargeOne" : "3",
+     "chargeTwo" : "2"
+   },
+   "cresselia": {
+     "fast" : "1",
+     "chargeOne" : "3",
+     "chargeTwo" : "4"
+   },
+   "lapras": {
+     "fast" : "1",
+     "chargeOne" : "7",
+     "chargeTwo" : "4"
+   },
+   "articuno": {
+     "fast" : "1",
+     "chargeOne" : "5",
+     "chargeTwo" : "3"
+   },
+   "giratina_origin": {
+     "fast" : "1",
+     "chargeOne" : "1",
+     "chargeTwo" : "3"
+   },
+   "melmetal": {
+     "fast" : "0",
+     "chargeOne" : "4",
+     "chargeTwo" : "3"
+   },
+   "registeel": {
+     "fast" : "0",
+     "chargeOne" : "2",
+     "chargeTwo" : "1"
+   },
+   "snorlax": {
+     "fast" : "0",
+     "chargeOne" : "1",
+     "chargeTwo" : "2"
+   },
+   "obstagoon": {
+     "fast" : "0",
+     "chargeOne" : "4",
+     "chargeTwo" : "1"
+   },
+   "machamp": {
+     "fast" : "1",
+     "chargeOne" : "2",
+     "chargeTwo" : "5"
+   },
+   "perrserker": {
+     "fast" : "1",
+     "chargeOne" : "2",
+     "chargeTwo" : "1"
+   },
+   "abomasnow": {
+     "fast" : "0",
+     "chargeOne" : "2",
+     "chargeTwo" : "5"
+   },
+   "swampert": {
+     "fast" : "0",
+     "chargeOne" : "1",
+     "chargeTwo" : "2"
+   },
+  "mewtwo_armored": {
+    "fast" : "0",
+    "chargeOne" : "1",
+    "chargeTwo" : "4"
+  },
+  "togekiss": {
+    "fast" : "1",
+    "chargeOne" : "4",
+    "chargeTwo" : "2"
+  },
+  "muk_alolan": {
+    "fast" : "2",
+    "chargeOne" : "2",
+    "chargeTwo" : "3"
+  },
+  "poliwrath": {
+    "fast" : "1",
+    "chargeOne" : "1",
+    "chargeTwo" : "3"
+  }  
+}
